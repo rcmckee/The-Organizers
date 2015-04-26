@@ -13,6 +13,6 @@ With the following rules
 
 3) The computer began recording at 2015-03-19 02:59:51 Zulu.
 
-4) The title of your "reset" must follow the format 
+4) The title of your "reset" must follow the format
 
-    The-Organizers: Reset [the number of your github fork]
+    The-Organizers-Reset-[the number of your github fork (or check the number of forks and add 1 to the last number)]
