@@ -1,11 +1,6 @@
-#The Organizers
+#The-Organizers-Reset-5
 
 <font color="red">to change font color</font>
-
-end with
-
-$ sudo reset \n
-Password:
 
 David sat hunched over at the computer screen. Reading line after line of code.
 
