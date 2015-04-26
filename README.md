@@ -16,5 +16,5 @@ With the following rules
 
 4) The title of your "reset" should follow the format 
 
-    The-Organizers: Reset [the number of your github fork]
+    The-Organizers-Reset-[the number of your github fork]
 
