@@ -9,7 +9,7 @@ The guidelines for the stories can be found below and interpreted from the origi
 
 Guidelines:
 
-1) Each story ends with a reset. End your "reset" with the below 2 lines. If you do not, it will be assumed your story is incomplete.
+1) Each story ends with a reset. End your "reset" with the below 2 lines. If you do not, it will be assumed your story is incomplete because every story results in a reset.
 
     $ sudo reset
     $ Password:
@@ -21,8 +21,4 @@ Guidelines:
 
 4) The title of your "reset" should follow the format
 
-    The-Organizers-Reset-[next number in the series of public repositories]
-
-5) The repository title should follow the format
-
-    Reset-[the next number in the series of public repositories]
+    Reset-[next number in the series of titles]
