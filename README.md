@@ -2,7 +2,7 @@
 
 This is an open source series where infinite possibilities are possible and strongly encouraged.
 
-All of the stories in the series can be found at https://www.gitbook.com/@the-organizers.
+All of the stories in the series can be found at https://www.gitbook.com/@the-organizers
 
 The guidelines for the stories can be found below and interpreted from the original story:  [The Conversation](The-Conversation.md).
 
